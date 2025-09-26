@@ -30,12 +30,13 @@ A complete **Business Intelligence and Machine Learning solution** that predicts
 
 ---
 
-📸 Preview
+## 📸 Preview
 
 <img width="1534" height="863" alt="Screenshot 2025-09-26 at 8 39 23 PM" src="https://github.com/user-attachments/assets/6774b995-9585-46f9-b414-d4ade08dfa71" />
 
 
-🏆 Achievements
+## 🏆 Achievements
+
 🚀 Delivered a complete BI + ML solution from raw data to actionable insights
 🔎 Translated complex attrition drivers into executive-ready dashboards
 💡 Designed a predictive risk model directly integrated into Power BI
